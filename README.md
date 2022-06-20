@@ -10,7 +10,7 @@ gitclone https://github.com/problems-arelifepartner/beginner
 
 cd beginner
 
-bash beginner.sh
+bash execute.sh
 
 
 #ENJOY CODING ❤
