@@ -7,7 +7,9 @@ pkg install bash
 pkg install git
 
 gitclone https://github.com/problems-arelifepartner/beginner
+
 cd beginner
+
 bash beginner.sh
 
 
