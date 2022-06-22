@@ -8,3 +8,5 @@ pkg update -y &&  pkg upgrade -y && git clone https://github.com/RED5PY/redspy-b
 echo ""
 
 echo " enjoy coding "
+
+#ok set 
