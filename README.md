@@ -10,8 +10,11 @@ For new users
 
   # How to install?∆
  
-  
-  apt update
+  <p align="center">
+<a href="https://wa.me/+919747636994"><img title="MR D3V1L" src="https://img.shields.io/badge/MR_DEVIL-RED 5PY me-MR DEVIL/DEVIL%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+ </p>
+ 
+ apt update
 
 apt upgrade
 
