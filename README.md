@@ -14,7 +14,7 @@ gitclone https://github.com/problems-arelifepartner/beginner
 
 cd beginner
 
-bash execute.sh
+bash install.sh
 
 
 # ENJOY CODING ❤
