@@ -16,6 +16,8 @@ echo ""
 bash boom.sh
 echo ""
 
+echo "exit"
+echo ""
 
 echo "[1] python"
 echo
