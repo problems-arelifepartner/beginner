@@ -15,3 +15,5 @@ echo ""
 
 bash boom.sh
 echo ""
+
+echo " "
