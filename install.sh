@@ -1,3 +1,7 @@
+termux-setup-storage -y
+
+bash banner.sh
+
 echo "[1] python"
 echo
 echo "[2] nmap"
