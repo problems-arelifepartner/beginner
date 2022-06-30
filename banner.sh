@@ -16,7 +16,7 @@ echo ""
 bash boom.sh
 echo ""
 
-exit
+exit 1
 echo ""
 
 
