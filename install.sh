@@ -17,7 +17,7 @@ echo
 echo "[7] proot-distro"
 read -p " enter your option:" option
 if [[ $option == 1 || $option == 01 ]]; then
-pkg install python && python2 -y && bash banner.sh
+pkg install python && python2 -y && python3 -y
 elif [[ $option == 2 || $option == 02 ]]; then
 pkg install nmap -y
 elif [[ $option == 3 || $option == 03 ]]; then
