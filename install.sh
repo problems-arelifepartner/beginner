@@ -1,6 +1,6 @@
 termux-setup-storage -y
 
-bash banner.sh
+
 
 echo "[1] python"
 echo
@@ -17,7 +17,7 @@ echo
 echo "[7] proot-distro"
 read -p " enter your option:" option
 if [[ $option == 1 || $option == 01 ]]; then
-pkg install python && python2 -y
+pkg install python && python2 -y && bash banner.sh
 elif [[ $option == 2 || $option == 02 ]]; then
 pkg install nmap -y
 elif [[ $option == 3 || $option == 03 ]]; then
