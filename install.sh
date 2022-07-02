@@ -1,5 +1,6 @@
-termux-setup-storage -y
 
+echo "termux-setup-storage"
+echo ""
 echo "[0] hackertheme"
 echo
 echo "[1] python"
